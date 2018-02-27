@@ -1,0 +1,13 @@
+Jacobi
+Jacobi-Leggy
+Time-stepping (2 timesteps)
+Time-stepping (3 timesteps)
+Gauss-Seidel
+Red - Black?
+Edge Detection 
+
+
+Existing benchmarks:
+- Rodinia
+- SHOC
+- PolyBench 
